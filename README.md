@@ -1,2 +1,3 @@
 # Calculator-
-This a simple calculator 
+This a simple integer calculator 
+please use it without any error.
